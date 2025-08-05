@@ -6,3 +6,16 @@ first i downloaded zip using terminal (wget link ) than installed mlocate than i
 
 /home/yakshchauhan/Downloads/Terminal-Hunt-Solar_System/Saturn/Ring/.wormhole.sh
 
+ echo "Well done, traveller"  # '-WN;LB]g,dwDaY1*!C**24;3nhx0&(jP*Z)rb2_Ff0,$(c$p4-d5#4x8G7@6nkg-V*1vvwYfH$,Z0PH.aT15
+
+  echo "You've managed to breach the distortions near Saturn's ring and accessed the wormhole node" # :';tz.#9Ya4e{[tPZ$j]Laz-MzN){XjaLKW(ZEf%@Aa633dL;@A48CjhCz{ZH?+8n]B6weekyMDH0f
+
+echo "But now, your mission isn't just to discover... it's to protect" #:'{JZ8Mj1#ki./yiqz@SUh%042S6Ln_
+
+echo "Back up the solutions.md to the safest place you know" #:'u)8]2+RyA]r*A7et({Myc-?*NPSXmu:qEp!44G#Fz6WCY&[T0JTar!*GdVCe&?+4,w?;.FwN&,16M.cmfnuge
+
+echo "And what could be safer than your Home Sweet Home" #:']n{4?nk]z)N[j2__h_qB;Wcay_5wRV./n=VTU2@{}59WB?/*!$:Q3-p5TER*w0
+
+ echo "Copy it to the directory that shares the name of your state and also take a screenshot of this output" #:'6A5u*8f{vn0+qrP}hrrCv_yYFg!nS
+
+
