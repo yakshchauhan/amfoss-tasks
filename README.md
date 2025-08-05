@@ -10,6 +10,9 @@ first i downloaded zip using terminal (wget link ) than installed mlocate than i
 
   echo "You've managed to breach the distortions near Saturn's ring and accessed the wormhole node" # :';tz.#9Ya4e{[tPZ$j]Laz-MzN){XjaLKW(ZEf%@Aa633dL;@A48CjhCz{ZH?+8n]B6weekyMDH0f
 
+  
+ echo "This is your second key wbGV0ZWQgdGhlIFRlcm1pbmFsIEh1bnQhIFJ1biBncmF2aXR5" #'x9=[/.@1j/4)#${H3[=B9JEM57.6NSyq0c+7K&xGG/=V997aFHSAML.;=TA+=vQ)?B=9%h!ZE9L1H7iCri/[;qLudy/z!qu,AE4L
+
 echo "But now, your mission isn't just to discover... it's to protect" #:'{JZ8Mj1#ki./yiqz@SUh%042S6Ln_
 
 echo "Back up the solutions.md to the safest place you know" #:'u)8]2+RyA]r*A7et({Myc-?*NPSXmu:qEp!44G#Fz6WCY&[T0JTar!*GdVCe&?+4,w?;.FwN&,16M.cmfnuge
