@@ -1,11 +1,11 @@
 #1 <br>
-step 1: use git clone and clone repository (it will save as Terminal-Hunt)
-step 2: now use locate repository command
+step 1: use git clone and clone repository (it will save as Terminal-Hunt) <br>
+step 2: now use locate repository command <br>
 
-<img width="1917" height="212" alt="Screenshot from 2025-08-06 22-43-18" src="https://github.com/user-attachments/assets/217102c8-6ae2-4c24-a7d1-47f80f374dc1" />
+<img width="1917" height="212" alt="Screenshot from 2025-08-06 22-43-18" src="https://github.com/user-attachments/assets/217102c8-6ae2-4c24-a7d1-47f80f374dc1" /> <br>
 
-step 3: now unhide .facility by changing name 
-step 4: now use cat or vim command to get string 
+step 3: now unhide .facility by changing name <br>
+step 4: now use cat or vim command to get string <br>
 
 <img width="1912" height="441" alt="Screenshot from 2025-08-06 22-55-44" src="https://github.com/user-attachments/assets/55e4f9b3-5661-48c1-b7d4-467f755ec07a" />
 
