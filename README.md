@@ -29,6 +29,12 @@ step 5: now use (mv .the_core the_core) to unhide it and then enter into the_cor
 step 6: now unhide it and run vim commmand to see content inside 
 
 
+#4
+step 1: first enter into the_centre using cd command than use (ls -a) to find hidden file than it will show .the_singularity
+step 2: now unhide it using mv command 
+
+
+
 
 
 
