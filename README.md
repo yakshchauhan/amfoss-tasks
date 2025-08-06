@@ -14,10 +14,11 @@ step 5: now hide file again as they said to maintain secrecy using mv command
 #2
 step 1: use locate wormhole to find it
 step 2: go into directory (Ring) than type (ls -a) command to find wormhole.sh 
-step 3: 
+step 3: now use vim wormhole.sh and get your key 
 
+<img width="1920" height="1069" alt="Screenshot from 2025-08-06 23-10-27" src="https://github.com/user-attachments/assets/62fb0887-0732-4abc-9bc4-9bd593c65971" />
 
-
+step 4: now use (:q!) to exit vim 
 first i downloaded zip using terminal (wget link ) than installed mlocate than i used locate facility to find location 
 
 /home/yakshchauhan/Downloads/Terminal-Hunt-Solar_System/Saturn/Ring/.wormhole.sh
