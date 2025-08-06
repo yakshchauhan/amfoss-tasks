@@ -31,12 +31,11 @@ step 6: now unhide it and run vim commmand to see content inside
 
 #4
 step 1: first enter into the_centre using cd command than use (ls -a) to find hidden file than it will show .the_singularity
-step 2: now unhide it using mv command 
-
-
-
-
-
+step 2: now unhide it using mv command and enter into the_singularity
+step 3: now use ls -l to find whether the .sh file is executable or not 
+step 4: now use command (chmod 700 gravity_singularity.sh) to make it executable for user 
+step 5: use (./gravity_singularity.sh) to execute
+step 6: now press enter 
 
 <img width="1917" height="797" alt="Screenshot from 2025-08-06 21-37-21" src="https://github.com/user-attachments/assets/17839a09-21e9-4937-840f-edc69aee99da" />
 
