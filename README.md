@@ -1,3 +1,4 @@
+#1
 step 1: use git clone and clone repository (it will save as Terminal-Hunt)
 step 2: now use locate repository command
 
@@ -10,7 +11,10 @@ step 4: now use cat or vim command to get string
 
 step 5: now hide file again as they said to maintain secrecy using mv command
 
-
+#2
+step 1: use locate wormhole to find it
+step 2: go into directory (Ring) than type (ls -a) command to find wormhole.sh 
+step 3: 
 
 
 
