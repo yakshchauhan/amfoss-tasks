@@ -37,6 +37,5 @@ step 4: now use command (chmod 700 gravity_singularity.sh) to make it executable
 step 5: use (./gravity_singularity.sh) to execute
 step 6: now press enter 
 
-<img width="1917" height="797" alt="Screenshot from 2025-08-06 21-37-21" src="https://github.com/user-attachments/assets/17839a09-21e9-4937-840f-edc69aee99da" />
-
+<img width="1917" height="866" alt="Screenshot from 2025-08-06 23-59-30" src="https://github.com/user-attachments/assets/ba72068a-22d6-4a2e-ba15-bb608354daf8" />
 
