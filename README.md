@@ -2,25 +2,25 @@
 step 1: use git clone and clone repository (it will save as Terminal-Hunt) <br>
 step 2: now use locate repository command <br>
 
-<img width="1917" height="212" alt="Screenshot from 2025-08-06 22-43-18" src="https://github.com/user-attachments/assets/217102c8-6ae2-4c24-a7d1-47f80f374dc1" /> <br>
+<img width="1917" height="212" alt="Screenshot from 2025-08-06 22-43-18" src="https://github.com/user-attachments/assets/217102c8-6ae2-4c24-a7d1-47f80f374dc1" /> 
 
 step 3: now unhide .facility by changing name <br>
 step 4: now use cat or vim command to get string <br>
 
 <img width="1912" height="441" alt="Screenshot from 2025-08-06 22-55-44" src="https://github.com/user-attachments/assets/55e4f9b3-5661-48c1-b7d4-467f755ec07a" />
 
-step 5: now hide file again as they said to maintain secrecy using mv command
+step 5: now hide file again as they said to maintain secrecy using mv command <br>
 
-#2
-step 1: use locate wormhole to find it
-step 2: go into directory (Ring) than type (ls -a) command to find wormhole.sh 
-step 3: now use vim wormhole.sh and get your key 
+#2 <br>
+step 1: use locate wormhole to find it <br>
+step 2: go into directory (Ring) than type (ls -a) command to find wormhole.sh  <br>
+step 3: now use vim wormhole.sh and get your key <br>
 
 <img width="1920" height="1069" alt="Screenshot from 2025-08-06 23-10-27" src="https://github.com/user-attachments/assets/62fb0887-0732-4abc-9bc4-9bd593c65971" />
 
-step 4: now use (:q!) to exit vim 
+step 4: now use (:q!) to exit vim <br>
 
-#3
+#3  
 step 1: enter Ternimal-Hunt directory and use git command (git branch -a) it will show you all branch repos 
 step 2: now change your repo to GargantuaSystem using command (git checkout GargantuaSystem)
 step 3: now use cd command to enter Gargantua
