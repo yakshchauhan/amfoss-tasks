@@ -17,8 +17,14 @@ echo "But now, your mission isn't just to discover... it's to protect" #:'{JZ8Mj
 
 echo "Back up the solutions.md to the safest place you know" #:'u)8]2+RyA]r*A7et({Myc-?*NPSXmu:qEp!44G#Fz6WCY&[T0JTar!*GdVCe&?+4,w?;.FwN&,16M.cmfnuge
 
+
 echo "And what could be safer than your Home Sweet Home" #:']n{4?nk]z)N[j2__h_qB;Wcay_5wRV./n=VTU2@{}59WB?/*!$:Q3-p5TER*w0
 
  echo "Copy it to the directory that shares the name of your state and also take a screenshot of this output" #:'6A5u*8f{vn0+qrP}hrrCv_yYFg!nS
+
+
+
+
+<img width="1917" height="797" alt="Screenshot from 2025-08-06 21-37-21" src="https://github.com/user-attachments/assets/17839a09-21e9-4937-840f-edc69aee99da" />
 
 
