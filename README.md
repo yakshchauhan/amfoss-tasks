@@ -27,6 +27,11 @@ step 3: now use cd command to enter Gargantua
 step 4: use ls -a to see all hidden file  
 step 5: now use (mv .the_core the_core) to unhide it and then enter into the_core now again run ls -a command there you will find   (.message_from_Them.txt)  
 step 6: now unhide it and run vim commmand to see content inside  
+step 7: now convert binary to base64 using online tool and you get this (VGhlIHF1aWNrIGJyb3duIGZveCBqdW1wcyBvdmVyIDEzIGxhenkgZG9ncy4=)  
+step 8: now decode that string using base64 decoder and you get this output  
+
+
+<img width="1047" height="582" alt="Screenshot from 2025-08-07 17-08-39" src="https://github.com/user-attachments/assets/8a2319f4-954c-4995-9895-697d3d9f54eb" />  
 
 
 #4  
