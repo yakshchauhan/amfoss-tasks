@@ -14,6 +14,7 @@ My statistics is as shown :
 | Task List | Description | Status |
 |-----------|-------------|--------|
 | Task-01 | [Terminal Hunt](./Task-01/README.md) | Completed |
+| Task-10 | [BattleCraft: Daily CSS Challenges](./Task-10) | Completed |
 
 
 
