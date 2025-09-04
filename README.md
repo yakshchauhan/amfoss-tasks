@@ -13,7 +13,7 @@ My statistics is as shown :
 
 | Task List | Description | Status |
 |-----------|-------------|--------|
-| Task-01 | [Type Maestro](#) | Completed |
+| Task-01 | [Task-01](#) | Completed |
 
 
 
