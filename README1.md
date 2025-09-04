@@ -1,7 +1,7 @@
 ## **INTRODUCTION**
 Hi, I am Yaksh Chauhan, a first-year B.Tech Computer Science and Engineering student at Amrita Vishwa Vidyapeetham, Amritapuri campus. Even though I am just starting out, I am always eager to learn new things.
 ## **Why should we choose you**
-I secured an AEEE rank of 397 and could have easily taken CSE at Coimbatore campus, but I specifically chose Amritapuri because of amFOSS. I believe this shows my genuine passion and commitment to being part of this club. I am the type of person who, once I set a goal, gives my best to achieve it. I am ready to invest my time, energy, and dedication to contribute meaningfully to the club’s growth.
+I secured an AEEE rank of 397 and could have easily taken CSE at Coimbatore campus, but I decided to come Amritapuri because of amFOSS. I believe this shows my genuine passion and commitment to being part of this club. I am the type of person who, once I set a goal, gives my best to achieve it. I am ready to invest my time, energy, and dedication to contribute meaningfully to the club’s growth.
 ## **How do you intend to contribute back to the club?**
 To be honest, as a beginner I may not know exactly how I will contribute right now. But what I can guarantee is that I will actively participate in all events, tasks, and activities of the club. I am always willing to put in the effort to learn, grow, and help wherever needed. Most importantly, I am here for the long run—I will not leave midway. Instead, I will stay consistent, keep learning, and contribute as much as possible over time.
 ## **What are your fields of interest,and how do you plan on working on them?**
