@@ -13,7 +13,7 @@ My statistics is as shown :
 
 | Task List | Description | Status |
 |-----------|-------------|--------|
-| Task-01 | [Task-01](#) | Completed |
+| Task-01 | [Terminal Hunt](./Task-01/README.md) | Completed |
 
 
 
