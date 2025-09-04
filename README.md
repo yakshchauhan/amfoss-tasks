@@ -7,5 +7,15 @@ To be honest, as a beginner I may not know exactly how I will contribute right n
 ## **What are your fields of interest,and how do you plan on working on them?**
 At present, I don’t have a fixed field of interest, because I am open to exploring different areas of computer science.But for now i am thinking of creating something similar to the ‘God’s Eye’ shown in Furious 7, after getting into the club. This project would extensively involve AI/ML domains like computer vision, deep learning, natural language processing (NLP), and IoT, which makes it an exciting challenge to explore.For that, I am looking forward to learn from the peers and mentors in the club. At the same time, I will stay open to new opportunities, challenges, and technologies that come my way in the future.
 
+# TASK STATUS
+
+My statistics is as shown :
+
+| Task List | Description | Status |
+|-----------|-------------|--------|
+| Task-01 | [Type Maestro](#) | Completed |
+
+
+
 
 
