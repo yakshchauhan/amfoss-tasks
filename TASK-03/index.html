@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cybertron Reforged</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+ 
+    
+    <div class="container">
+    <h1 class="animated-text">
+      <span>D</span>
+      <span>R</span>
+      <span>A</span>
+      <span>W</span>
+      <span class="space">&nbsp;</span>
+      <span>C</span>
+      <span>I</span>
+      <span>R</span>
+      <span>C</span>
+      <span>L</span>
+      <span>E</span>
+      <span>!</span>
+    </h1>
+  </div>
+
+<div id="scoreboard">
+  <div id="bestScore">🏆 Best Score: 0%</div>
+  <div id="score">⭕ Circle Accuracy: 0%</div>
+</div>
+
+
+
+    <!-- Game Area -->
+        <div id="game-container">
+          <canvas id="canvas" width="1000" height="520"></canvas>
+        </div>
+
+        
+
+          <!-- loading screen overlay  -->
+  <div id="loading_screen_overlay">
+    <img src="optimus.png" alt="optimus prime" id="optimus_face">
+    <p id="text_below">Message from Prime...</p>
+  </div>
+
+   <!-- Game Audio -->
+  <audio id="failSound" src="https://actions.google.com/sounds/v1/cartoon/clang_and_wobble.ogg"></audio>
+  <audio id="successSound" src="https://actions.google.com/sounds/v1/cartoon/wood_plank_flicks.ogg"></audio>
+  <audio id="drawSound" src="https://actions.google.com/sounds/v1/foley/pencil_write.ogg" loop></audio>
+  
+
+  <!-- Story Narration (4 parts) -->
+  <audio id="part1" src="voice1.mp3"></audio>
+  <audio id="part2" src="voice2.mp3"></audio>
+  <audio id="part3" src="voice3.mp3"></audio>
+  <audio id="part4" src="voice4.mp3"></audio>
+
+
+
+  <audio id="bgMusic" loop>
+  <source src="pageaudio.mpeg" type="audio/mpeg">
+  </audio>
+
+
+
+<script src="script.js"></script>
+</body>
+</html>
