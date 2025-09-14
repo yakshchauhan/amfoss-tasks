@@ -14,7 +14,7 @@ My statistics is as shown :
 | Task List | Description | Status |
 |-----------|-------------|--------|
 | Task-01 | [Terminal Hunt](./TASK-01/README.md) | Completed |
-| Task-03 | [The Circularity Challenge](./TASK-03/README.md) | Completed |
+| Task-03 | [The Circularity Challenge](./TASK-03/) | Completed |
 | Task-10 | [BattleCraft: Daily CSS Challenges](./Task-10) | Completed |
 
 
