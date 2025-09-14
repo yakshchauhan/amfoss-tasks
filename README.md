@@ -14,8 +14,11 @@ My statistics is as shown :
 | Task List | Description | Status |
 |-----------|-------------|--------|
 | Task-01 | [Terminal Hunt](./TASK-01/README.md) | Completed |
+| Task-02 | [The Cyberpunk Syndicate](./TASK-02/) | Completed |
 | Task-03 | [The Circularity Challenge](./TASK-03/) | Completed |
 | Task-04 | [CineScope](./TASK-04/) | Completed |
+| Task-05 | [TimeTickQuiz CLI](./TASK-05/) | Completed |
+| Task-06 | [LyricLounge Discord bot](./TASK-06/) | Completed |
 | Task-10 | [BattleCraft: Daily CSS Challenges](./Task-10) | Completed |
 
 
